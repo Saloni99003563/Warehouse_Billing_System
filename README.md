@@ -1,6 +1,5 @@
-# stepin104979-MiniProject_C
-## Warehouse Billing System
-### This project done under LTTS Traning_Stepin
+## L&T stepin104979-MiniProject_C
+# Warehouse Billing System
 
 
 
