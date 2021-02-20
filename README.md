@@ -1,4 +1,4 @@
-## L&T stepin104979-MiniProject_C
+L&T stepin104979-MiniProject_C
 # Warehouse Billing System
 
 
